@@ -3,11 +3,13 @@
 
 #include <iostream>
 
+using namespace std; // affects all function definitions in this file.
+
 int stonetolb(int); // function prototype
 
 int main()
 {
-    using namespace std;
+    //using namespace std;
 
     int stone;
 
