@@ -1,10 +1,14 @@
 #include <iostream>
 
-using namespace std;
-
 int main()
 {
-    cout<<"Come up and C++ me come time. "<<endl;
+    using namespace std;
+
+    cout<<"Come up and C++ me come time. ";
+    cout <<endl;
+
+    cout <<"Youi won't regret it !"<<endl;
+    
 
     return 0;
 
