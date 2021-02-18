@@ -1,3 +1,5 @@
+// myfirst.cpp --display a message
+
 #include <iostream>
 
 using std::cout;
