@@ -1,22 +1,33 @@
 {
     "version": "2.0.0",
-    "tasks": [
-        {
-            "label": "Build with Clang",//这个任务的名字在launch.json最后一项配置
-            "type": "shell",
-            "command": "clang++",
+    "tasks": [{
+            "label": "compile",
+            "command": "g++",
             "args": [
-                "-std=c++17",
-                "-stdlib=libc++",
-                "${fileBasenameNoExtension}.cpp",
+                "-g",
+                "${file}",
                 "-o",
-                "a.out",
-                "--debug"
+                "${fileDirname}/${fileBasenameNoExtension}"
             ],
+            "problemMatcher": {
+                "owner": "cpp",
+                "fileLocation": [
+                    "relative",
+                    "${workspaceRoot}"
+                ],
+                "pattern": {
+                    "regexp": "^(.*):(\\d+):(\\d+):\\s+(warning|error):\\s+(.*)$",
+                    "file": 1,
+                    "line": 2,
+                    "column": 3,
+                    "severity": 4,
+                    "message": 5
+                }
+            },
             "group": {
                 "kind": "build",
                 "isDefault": true
             }
         }
     ]
-  }
+}
