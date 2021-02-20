@@ -15,7 +15,7 @@ int main()
 
     cout << "Add one to the character code: " << endl;
 
-    ch = ch + 1; // change character code in ch, 将字符+1，相当与对应 77 + 1 的字符
+    ch = ch + 1; // change character code in ch, ch 实际上是一个整数，因此可以对它使用整数操作，如+1.
 
     i = ch; // save new character code in i
 
