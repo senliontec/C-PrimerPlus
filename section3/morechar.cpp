@@ -25,7 +25,7 @@ int main()
 
     cout << "Displaying char ch using cout.put(ch): " << endl;
 
-    cout.put(ch);
+    cout.put(ch); // cout.put(89)可以将数字89转化为字符进行输出.
 
     // using cout.put() to display a char constant
 
