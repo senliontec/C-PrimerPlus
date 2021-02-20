@@ -7,7 +7,7 @@ int main()
 {
     using namespace std;
 
-    char ch = 'M'; // assign ASCII code M to ch
+    char ch = 'M'; // assign ASCII code M to ch, char 类型默认情况下既不是没有符号，也不是有符号。如有必要，可由程序员显式进行声明。
 
     int i = ch; // store same code in an int
 
