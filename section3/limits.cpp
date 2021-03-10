@@ -13,6 +13,7 @@
 
 // short  是short int 的简称
 // long   是long int  的简称, 但设计者几乎都不适用比较长的形式。
+// unsigned 是 unsigned int的缩写
 
 int main()
 {
