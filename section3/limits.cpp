@@ -11,6 +11,9 @@
 // long long 至少64位，且至少与long一样长
 // 字节(byte)通常指8位的内存单元，字节就是指描述计算机内存量的度量单位
 
+// short  是short int 的简称
+// long   是long int  的简称
+
 int main()
 {
 
