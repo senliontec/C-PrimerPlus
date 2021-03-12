@@ -15,6 +15,8 @@ int main()
     int year;
 
     (cin >> year).get(); 
+    /* 如果直接用 cin >> year, 将回车键生成的换行符留在了输入队列中。后面的cin.getline()看到回车符后，将认为是一个空行，并将一个空字符串赋给address数组。 
+    */
 
     /*
      * 解决方法： 
