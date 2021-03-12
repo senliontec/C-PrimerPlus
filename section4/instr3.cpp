@@ -21,7 +21,7 @@ int main()
 
     cout << " Enter your name:\n";
 
-    cin.get(name,ArSize).get(); // reads through newline
+    cin.get(name,ArSize).get(); // read string, newline
 
     cout << "Enter your favorite dessert: \n";
 
