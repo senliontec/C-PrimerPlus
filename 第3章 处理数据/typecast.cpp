@@ -1,5 +1,5 @@
 
-// typecast.cpp --forcing type chages
+// 程序清单3.14 typecast.cpp --forcing type chages
 
 
 #include <iostream>
