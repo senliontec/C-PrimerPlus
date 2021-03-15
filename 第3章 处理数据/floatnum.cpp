@@ -1,4 +1,4 @@
-﻿// 程序清单3.8 floatnum.cpp
+﻿// 程序清单3.8 floatnum.cpp 
 
 /*
   C 和 C++ 对有效位数的要求是： 
