@@ -1,4 +1,4 @@
-// string.cpp --storing strings in an array
+// 程序清单4.2 string.cpp --storing strings in an array
 
 #include <iostream>
 #include <cstring> // for the strlen() function
