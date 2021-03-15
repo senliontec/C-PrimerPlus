@@ -1,4 +1,4 @@
-// 程序清单2.4 sqrt.cpp
+// 程序清单2.4 sqrt.cpp 
 // sqrt.cpp --using the sqrt() function
 #include <iostream>
 #include <cmath> // or math.h
