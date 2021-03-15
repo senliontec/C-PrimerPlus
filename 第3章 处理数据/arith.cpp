@@ -1,3 +1,5 @@
+// 程序清单3.10 arith.cpp  --some C++ arithmetic
+
 /* 关于 float、double、long double的有效位，其实在编译器文件中已经给出，下面以Borland C++ Builder的float.h
  * 文件相关事项举例
  *
