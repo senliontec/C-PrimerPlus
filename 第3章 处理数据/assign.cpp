@@ -1,4 +1,4 @@
-// init.cpp --type changes on initialization
+//程序清单3.13 init.cpp --type changes on initialization
 
 
 #include <iostream>
