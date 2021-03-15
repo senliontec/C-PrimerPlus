@@ -1,4 +1,4 @@
-// 程序清单2.6 convert.cpp
+// 程序清单2.6 convert.cpp 
 // convert.cpp --converts stone to pounds
 
 #include <iostream>
