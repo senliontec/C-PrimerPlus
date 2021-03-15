@@ -1,5 +1,5 @@
 
-// strtype1.cpp --using the c++ string class
+// 程序清单4.7 strtype1.cpp --using the c++ string class
 
 
 #include <iostream>
