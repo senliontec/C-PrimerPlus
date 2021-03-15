@@ -15,6 +15,8 @@ int main()
 
     string str;
 
+    // 对于未被初始化的数组，第一个空字符出现的位置是随机的，因此运行程序时，得到的数组长度可能会与此不同
+    
     cout << "Length of string in charr before input: " << strlen(charr) << endl;
 
     cout << "Length of string in str before input: " << str.size() << endl;
