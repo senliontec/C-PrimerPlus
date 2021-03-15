@@ -45,12 +45,6 @@ int main()
     cout << "You can have both for $";
 
     cout << guest.price + pal.price << "!\n";
-
-
-
-
-
-
     
 
     return 0;
