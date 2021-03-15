@@ -1,4 +1,4 @@
-// 程序清单 2.3 getinfo.cpp
+// 程序清单 2.3 getinfo.cpp 
 // getinfo.cpp -- input and output
 
 #include <iostream>
