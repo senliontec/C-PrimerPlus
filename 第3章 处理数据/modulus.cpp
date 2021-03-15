@@ -1,5 +1,5 @@
 
-// modulus.cpp  --uses % operator to convert lbs to stone
+// 程序清单3.12 modulus.cpp  --uses % operator to convert lbs to stone
 
 #include <iostream>
 
