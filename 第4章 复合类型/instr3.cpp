@@ -1,5 +1,5 @@
 
-// instr3.cpp -- reading more than one word with get() & get() 
+// 程序清单4.5  instr3.cpp -- reading more than one word with get() & get() 
 /*
 cin.get(name,size): 将一个字符串放入数组中
 
