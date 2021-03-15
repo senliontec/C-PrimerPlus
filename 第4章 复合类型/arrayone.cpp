@@ -1,5 +1,5 @@
 
-// arrayone.cpp --small arrays os integers 
+//程序清单4.1 arrayone.cpp --small arrays os integers 
 
 #include <iostream>
 
