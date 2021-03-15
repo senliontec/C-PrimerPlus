@@ -43,13 +43,6 @@ int main()
     cout << "The string "<< charr1 << " contains "<< len2 << " characters. "<<endl ;
 
 
-
-
-    
-
-
-
-
     return 0;
 }
 
