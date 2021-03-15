@@ -1,4 +1,4 @@
-// 程序清单3.6 morechar.cpp
+// 程序清单3.6 morechar.cpp 
 // morechar.cpp -- the char type and int type contrasted
 
 #include <iostream>
