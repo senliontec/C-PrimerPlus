@@ -1,5 +1,5 @@
 
-// instr1.cpp -- reading more than one string
+// 程序清单4.3 instr1.cpp -- reading more than one string
 
 
 #include <iostream>
