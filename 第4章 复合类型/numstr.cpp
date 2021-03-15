@@ -1,5 +1,5 @@
 
-// numstr.cpp  -- following number input with line input
+//程序清单4.6  numstr.cpp  -- following number input with line input
 // 
 
 
