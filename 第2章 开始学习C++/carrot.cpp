@@ -1,4 +1,4 @@
-// 程序清单2.2 carrot.cpp --food processing program
+// 程序清单2.2 carrot.cpp --food processing program 
 // uses and displays a variable
 
 #include <iostream>
