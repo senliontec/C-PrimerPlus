@@ -1,5 +1,5 @@
 
-// instr2.cpp -- reading more than one word with getline 
+// 程序清单4.4 instr2.cpp -- reading more than one word with getline 
 
 
 #include <iostream>
