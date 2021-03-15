@@ -1,5 +1,5 @@
 // 程序清单2.5 ourfunc.cpp
-
+ 
 // ourfunc.cpp --defining your own function
 
 #include <iostream>
