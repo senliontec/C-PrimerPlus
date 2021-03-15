@@ -1,5 +1,5 @@
 // 程序清单3.5 chartype.cpp
-// chartype.cpp -- the char type
+// chartype.cpp -- the char type 
 
 #include <iostream>
 
