@@ -1,5 +1,5 @@
 //程序清单2.1 myfirst.cpp --display a message
-
+ 
 #include <iostream>
 
 using std::cout;
